@@ -12,9 +12,9 @@ This repo includes the resumes of the following people:
 * I am a current undergraduate student studying Data Science at the University of California, Berkeley. During the past 2 years, I have worked as a Psychology Research Assistant at Princeton University, a Marketing Intern and consultant at IRES Partners, a Keller Williams team in the City of Industry, California, and am a licensed California real estate salesperson. In my free time, I enjoy listening to music and playing tennis. I originally lived in Orange County before coming to Berkeley for college. My favorite type of food is Japanese food, particularly sushi.
 * Jobs interested in: Real Estate Broker, Accountant, Marketing Analyst
 
-###### Uday Krishna Kalra
-* I am currently a student at University of California, Berkeley, majoring in Applied Mathematics and Statistics. Recreationally, I love watching and playing tennis, singing, and writing poetry. I also love the environment and wish to take up a career in the same field, wherein I could apply statistical analysis to help with problems like climate change etc.
-* Jobs interested in: Quantitative Researcher for Tesla, Lead Statistician for Clean Harbors Inc., Quantitative Analyst for CTG
+###### Sebastian Verduzco
+* I am currently a freshman, undergraduate student at the University of California, Berkeley. I intend to study Economics and Data Science (Double Major). Throughout my career, I have involved myself in a diverse group of businesses that have contributed to  all aspects of my professional development. The most unique experience on my resume is the international internship for Grab TaxiHoldings in the Philippines. I am not certain on my future career intersts, but I believe it will be related to Business. 
+* Jobs interested in: Consultant, Data Analyst, Product Manager
 
 ###### [Name of Person that Resume 3 is about]
 * 5 sentence summary describing the person from Resume 3.
